@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <br/> ⚡ &nbsp; Sobre mim: Gosto de jogar, ler, assistir séries e praticar esportes no meu tempo livre
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NásserRafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasserrafaelfk/)](https://www.linkedin.com/in/nasserrafaelfk/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-nasserfoster@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nasserfoster@gmail.com)](mailto:nasserfoster@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-nasserrafael@hotmail.com-darkblue?style=flat-square&logo=microsoft&logoColor=white&link=mailto:nasserrafael@hotmail.com)](mailto:nasserrafael@hotmail.com)
