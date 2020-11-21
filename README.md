@@ -1,6 +1,6 @@
-
+<!--
 # Násser Rafael
-
+-->
 ## Olá pessoal! 👋
 <!--
 **nasserrafaelfk/nasserrafaelfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Um completo aficcionado por tecnologia e programação!
 
 <br/> 🌱 &nbsp; Atualmente sou estudante de Engenharia de Computação :computer:
-<br/> :rocket: &nbsp; Minha stack é HTML, CSS e JavaScript
+<br/> :rocket: &nbsp; Me preparando para trabalhar com biorobótica, AI, ML
 <br/> ⚡ &nbsp; Sobre mim: Gosto de jogar, ler, assistir séries e praticar esportes no meu tempo livre
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NásserRafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasserrafaelfk/)](https://www.linkedin.com/in/nasserrafaelfk/) 
 | 
