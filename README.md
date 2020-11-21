@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Um completo aficcionado por tecnologia e programação!
+###Um completo aficcionado por tecnologia e programação!
 
 <br/> 🌱 &nbsp; Atualmente sou estudante de Engenharia de Computação :computer:
 <br/> :rocket: &nbsp; Me preparando para trabalhar com Robótica, AI, ML e Biomecânica
