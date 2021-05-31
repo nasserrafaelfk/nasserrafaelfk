@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <strong>Um completo aficcionado por tecnologia e desenvolvimento!</strong>
 <br/> 🌱 &nbsp; Atualmente sou estudante de Engenharia de Computação :computer:
-<br/> :rocket: &nbsp; Me preparando para trabalhar com Robótica, AI, ML e Biomecânica
+<br/> :rocket: &nbsp; Me preparando para trabalhar com AI, ML e Biomecânica
 <br/> ⚡ &nbsp; Sobre mim: Gosto de jogar, ler, assistir séries e praticar esportes no meu tempo livre
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NásserRafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasserrafaelfk/)](https://www.linkedin.com/in/nasserrafaelfk/) 
 | 
