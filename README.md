@@ -8,7 +8,7 @@
   <img style="width:340px" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserrafaelfk&layout=compact"/>
 </p>
 <br/> 📚 &nbsp; Estudante de Engenharia de Computação pelo CEFET/MG.
-<br/> 🚀 &nbsp; Desenvolvedor de aplicações web em WordPress pela Commit Jr.
+<br/> 🚀 &nbsp; Estagiário de desenvolvimento na DTI Digital.
 <br/> 🤖 &nbsp; Ex-monitor de robótica básica do projeto de extensão Enxurrada de Bits.
 <br/> ⚡ &nbsp; Sobre mim: Gosto de música, ler, assistir séries e praticar esportes no meu tempo livre.
 <br/> :email: &nbsp; Entre em contato comigo: 
