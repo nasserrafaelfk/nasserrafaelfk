@@ -1,5 +1,5 @@
 <h2>
-  Bem vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Bem vindo!
 </h2>
 <h3>
   Um completo aficcionado por tecnologia e desenvolvimento!
