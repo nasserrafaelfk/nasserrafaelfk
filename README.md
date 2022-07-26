@@ -14,7 +14,7 @@
 <br/> :email: &nbsp; Entre em contato comigo: 
 <p>
 <p align="left">
-<a href="https://www.linkedin.com/in/ronaldo-zica/">
+<a href="https://www.linkedin.com/in/nasserrafaelfk/">
 <img align="left" alt="Nasser's LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:nasserrafael@hotmail.com">
