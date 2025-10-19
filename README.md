@@ -1,9 +1,3 @@
-<h2>
-  Bem vindo!
-</h2>
-<h3>
-  The tech savy PO
-</h3>
 <p>
   <img style="width:340px" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserrafaelfk&layout=compact"/>
 </p>
