@@ -2,16 +2,14 @@
   Bem vindo!
 </h2>
 <h3>
-  Um completo aficcionado por tecnologia e desenvolvimento!
+  The tech savy PO
 </h3>
 <p>
   <img style="width:340px" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserrafaelfk&layout=compact"/>
 </p>
-<br/> 📚 &nbsp; Estudante de Engenharia de Computação pelo CEFET/MG.
-<br/> 🚀 &nbsp; Estagiário de desenvolvimento na DTI Digital.
-<br/> 🤖 &nbsp; Ex-monitor de robótica básica do projeto de extensão Enxurrada de Bits.
-<br/> ⚡ &nbsp; Sobre mim: Gosto de música, ler, assistir séries e praticar esportes no meu tempo livre.
-<br/> :email: &nbsp; Entre em contato comigo: 
+<br/> 📚 &nbsp; Computer Engineering student @ CEFET/MG.
+<br/> 🚀 &nbsp; Product Owner and Business Analyst @ dti Digital.
+<br/> :email: &nbsp; Let's talk:
 <p>
 <p align="left">
 <a href="https://www.linkedin.com/in/nasserrafaelfk/">
